@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">My name</string>
+    <string name="yellow_start">Yellow start</string>
+    <string name="bio">This app was taken during the Kotlin Essentials for Android course\n
+        created by the Google Developers training team in Lesson 2 on Layouts.\n
+        Initially it was suggested that you create a biography, however, this small text was made to explain about the app,\n
+        or the short "biography" of the app.\n\n
+        App overview\n
+        In the AboutMe app, you can showcase interesting facts about yourself, or you can customize the app for a friend, family member, or pet.\n
+        The app displays a name, a DONE button, a star image, and some scrollable text.\n\n
+    </string>
+    <string name="not_editable">not editable</string>
+    <string name="whats_your_nickname_hint">What\'s your Nickname?</string>
+    <string name="done">Done</string>
+
+
+
+</resources>
